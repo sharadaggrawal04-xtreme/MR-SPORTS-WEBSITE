@@ -1,0 +1,12 @@
+Your current live website link:
+https://curious-forward-harry-efficiently.trycloudflare.com
+
+Same Wi-Fi Direct Link (Phone / Tablets in the same room):
+http://192.168.0.181:8080
+
+- Mobile & Cross-Browser Fixes Applied:
+  * Strict HTML tag balancing resolved
+  * Zero horizontal page overflow
+  * Mobile tap scroll bug fixed (card touches no longer hijack the screen)
+  * Responsive 3D background centered for phone screens
+  * Mobile quick-jump navigation bar added
